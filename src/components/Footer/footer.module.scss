@@ -1,0 +1,16 @@
+.footer {
+  height: 200px;
+  background-color: rgb(39, 48, 60);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  a {
+    color: aliceblue;
+  }
+
+  p {
+    font-size: 12px;
+  }
+}

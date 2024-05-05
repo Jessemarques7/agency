@@ -1,0 +1,32 @@
+.main {
+  height: calc(100vh - 100px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1080px;
+}
+
+.content {
+  color: aliceblue;
+}
+
+.btn {
+  background-color: blue;
+  color: aliceblue;
+  padding: 20px 30px;
+  border: 0;
+  border-radius: 25px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.content h1 {
+  font-size: 26px;
+  margin-bottom: 50px;
+}
